@@ -1,0 +1,11 @@
+name: flutter_feign
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  dio: ^4.0.0
+  meta: ^1.3.0
+  get_it: ^6.1.1
